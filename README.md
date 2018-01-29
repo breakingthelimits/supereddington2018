@@ -1,2 +1,4 @@
-# supereddington2018
-Breaking the limits II - Super Eddington Accretion onto Compact Objects
+Super Eddington 2016
+=========================
+
+http://matteobachetti.github.io/supereddington2016/

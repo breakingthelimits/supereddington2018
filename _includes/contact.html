@@ -1,0 +1,45 @@
+    <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center">
+      <h2>Contacts</h2>
+        <div class="row">
+          <div class="col-md-5 col-md-offset-1" style='text-align: left'>
+            <h3>Organizing Secretariat</h3>
+              Kassiopea News sas<br />
+              Via Stamira n 10<br />
+              09134 Cagliari<br />
+              Italy<br />
+              Tel.: +39 (0)70 894 0426<br />
+              Fax: +39 (0)70 656 263<br />
+              e-mail: <a href="mailto:breakingthelimits2016@gmail.com">breakingthelimits2016@gmail.com</a><br />
+              web: <a href="http://www.kassiopeanews.com">http://www.kassiopeanews.com</a>
+          </div>
+          <div class="col-md-5" style='text-align: left'>
+            <h3>Conference Hotel/ Venue</h3>
+            Hotel Arbatax Park Resort <br />
+            Via Capri 49<br />
+            08048 Arbatax (OG)<br />
+            Italy<br />
+            Tel.: +39 (0)782 667 790<br />
+            Fax: +39 (0)782 667 795<br />
+            E-mail <a href="mailto:info@arbataxpark.com">info@arbataxpark.com</a><br />
+            <a href="http://www.arbataxpark.com/">http://www.arbataxpark.com/</a>
+
+          </div>
+        </div>
+
+        <br/>
+
+        <p>To contact the LOC, please use the following email address: <br/>
+          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </p>
+        <ul class="list-inline banner-social-buttons">
+            {% for network in site.social %}
+            <li>
+                <a href="{{ network.url }}" class="btn btn-default btn-lg">
+                  <i class="fa fa-{{ network.title }} fa-fw"></i>
+                  <span class="network-name">{{ network.title }}</span>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
