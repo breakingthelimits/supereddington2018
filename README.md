@@ -1,4 +1,4 @@
-Super Eddington 2016
-=========================
+Super Eddington 2018
+====================
 
-http://matteobachetti.github.io/supereddington2016/
+http://matteobachetti.github.io/supereddington2018/
