@@ -1,11 +1,11 @@
 # Site settings
-title: Super Eddington 2016
-email: "supereddington2016 at oa-cagliari.inaf.it"
+title: Super Eddington 2018
+email: "supereddington2018 at oa-cagliari.inaf.it"
 url: https://matteobachetti.github.io
-description: "Conference about Super-Eddington accretion, to be held in Arbatax (OG), Italy, on Sep. 19--23, 2016"
+description: "Conference about Super-Eddington accretion, to be held in Castiadas (CA), Italy, on Oct. 1--5, 2018"
 
 
-baseurl: /supereddington2016
+baseurl: /supereddington2018
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,14 +13,14 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Matteo Bachetti and Marta Burgay
+footer: Matteo Bachetti and Marta Mancosu
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/supereddy2016
+    url: https://twitter.com/supereddy2018
   - title: facebook
-    url: https://www.facebook.com/supereddington2016
+    url: https://www.facebook.com/supereddington2018
 
 # Build settings
 markdown: kramdown
