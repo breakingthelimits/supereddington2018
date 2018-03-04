@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Registration is open!
+title: Registration will open soon!
 excerpt_separator: <!--more-->
 
 ---
