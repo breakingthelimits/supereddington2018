@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Registration will open soon!
+title: Registration is open!
 excerpt_separator: <!--more-->
 
 ---
@@ -8,8 +8,13 @@ excerpt_separator: <!--more-->
 
 
 
-REGISTRATION WILL OPEN SOON!
-----------------------------
+REGISTRATION IS OPEN!
+---------------------
+
+
+Click <a href="https://matteobachetti.github.io/supereddington2018/registration/"> here </a> for information.
+
+
 
 
 <!--more-->
