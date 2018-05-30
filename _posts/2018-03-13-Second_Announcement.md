@@ -1,3 +1,9 @@
+---
+layout: post
+title: Second Announcement
+excerpt_separator: <!--more-->
+
+---
 
 *********************** SECOND ANNOUNCEMENT **********************
 
