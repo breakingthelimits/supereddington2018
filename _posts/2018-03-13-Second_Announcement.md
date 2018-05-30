@@ -24,6 +24,7 @@ Website: http://matteobachetti.github.io/supereddington2018
 <!--more-->
 
 RATIONALE AND PROGRAM
+---------------------
 Recent years have seen an increasing interest of the astronomical community on the topic of super-Eddington accretion on compact objects, which can apply to a variety of systems, such as supermassive black holes, black hole binaries, ULXs, neutron stars. The possibility that the Eddington limit may be violated can have important implications for the related topics of black hole growth, galaxy evolution and AGN feedback.
 
 
@@ -33,39 +34,34 @@ After two years from the first edition of Breaking the limits, we reconvene to d
 This workshop will be an opportunity to compare recent observations with state-of-the-art theoretical modeling of super-Eddington flows, and to discuss the cosmological implications of this regime of accretion.
 
 
-List of sessions:
+LIST OF SESSIONS:
+-----------------
 
-    • Accretion and ejection physics
 
-    • Black hole growth and galaxy evolution
+<b>Accretion and ejection physics</b><br />
+<b>Black hole growth and galaxy evolution</b><br />
+<b>Active Galactic Nuclei and quasars</b><br />
+<b>Galactic super-Eddington black holes and neutron stars</b><br /> 
+<b>Ultraluminous X-ray sources</b><br />
+<b>Gamma-ray bursts and tidal disruption events</b><br />
+<b>New and future observatories: NICER, Athena, XARM, ...</b><br />
 
-    • Active Galactic Nuclei and quasars
-
-    • Galactic super-Eddington black holes and neutron stars
-
-    • Ultraluminous X-ray sources
-
-    • Gamma-ray bursts and tidal disruption events
-
-    • New and future observatories: NICER, Athena, XARM, ...
+INVITED SPEAKERS:
+-----------------
     
-Invited speakers:
+<b>Alexander Tchekovskoy (Northwestern U.) - TBC </b><br />
+<b>Diego Altamirano (U. Southampton)</b><br />
+<b>Eleonora Troja (GSFC/UMD)</b><br />
+<b>Marianne Vestergaard (U. Copenhagen)</b><br /> 
+<b>Matt Middleton (U. Southampton)</b><br />
+<b>Nadia Zakamska (Johns Hopkins U.)</b><br />
+<b>Neil Cornish (Montana U.)</b><br />
 
-    • Alexander Tchekovskoy (Northwestern U.) - TBC
 
-    • Diego Altamirano (U. Southampton)
-
-    • Eleonora Troja (GSFC/UMD)
-
-    • Marianne Vestergaard (U. Copenhagen)
-
-    • Matt Middleton (U. Southampton)
-
-    • Nadia Zakamska (Johns Hopkins U.)
-
-    • Neil Cornish (Montana U.)
+   
     
 ORGANIZING COMMITTEES
+---------------------
 
 ## Scientific Organizing Committee (alphabetical order)
 
