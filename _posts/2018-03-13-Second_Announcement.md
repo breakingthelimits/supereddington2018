@@ -5,22 +5,22 @@ excerpt_separator: <!--more-->
 
 ---
 
-*********************** SECOND ANNOUNCEMENT **********************
+   *********************** SECOND ANNOUNCEMENT **********************
 
-                       BREAKING THE LIMITS 2018
+                        BREAKING THE LIMITS 2018
 
-         Super-Eddington Accretion onto Compact Objects
+             Super-Eddington Accretion onto Compact Objects
 
 
-          Sant’Elmo Beach Hotel, Castiadas (CA), Italy
+             Sant’Elmo Beach Hotel, Castiadas (CA), Italy
 
-                 	       October 1--5, 2018
+                 	         October 1--5, 2018
 
-Email: supereddington2018@oa-cagliari.inaf.it
+   Email: supereddington2018@oa-cagliari.inaf.it
 
-Website: http://matteobachetti.github.io/supereddington2018
+   Website: http://matteobachetti.github.io/supereddington2018
 
-*****************************************************************
+   *****************************************************************
 <!--more-->
 
 RATIONALE AND PROGRAM
