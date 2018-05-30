@@ -133,10 +133,15 @@ excerpt_separator: <!--more-->
 
 
 
-SOCIAL EVENTS
+    SOCIAL EVENTS
+    
+    -------------
 
--------------
 
-
-Besides the traditional social dinner, during this workshop it will be possible to visit to the recently commissioned Sardinia Radio Telescope (http://srt.inaf.it), a 64-m antenna for Radio Astronomy, Geodynamical studies and Space science, with active surface and cutting-edge technology, able to work either in single dish or in VLBI mode.
+    Besides the traditional social dinner, during this workshop
+    it will be possible to visit to the recently commissioned
+    Sardinia Radio Telescope (http://srt.inaf.it), a 64-m
+    antenna for Radio Astronomy, Geodynamical studies and Space
+    science, with active surface and cutting-edge technology,
+    able to work either in single dish or in VLBI mode.
 
