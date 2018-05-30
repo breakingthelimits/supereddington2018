@@ -21,6 +21,8 @@ Email: supereddington2018@oa-cagliari.inaf.it
 Website: http://matteobachetti.github.io/supereddington2018
 
 *****************************************************************
+<!--more-->
+
 RATIONALE AND PROGRAM
 Recent years have seen an increasing interest of the astronomical community on the topic of super-Eddington accretion on compact objects, which can apply to a variety of systems, such as supermassive black holes, black hole binaries, ULXs, neutron stars. The possibility that the Eddington limit may be violated can have important implications for the related topics of black hole growth, galaxy evolution and AGN feedback.
 
