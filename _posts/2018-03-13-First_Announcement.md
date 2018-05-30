@@ -47,7 +47,8 @@ excerpt_separator: <!--more-->
     • Galactic super-Eddington black holes and neutron stars
     • Ultraluminous X-ray sources
     • Gamma-ray bursts and tidal disruption events
-    • New and future observatories: XARM, NICER, Astrosat, Athena, JWST, SKA, LIGO/VIRGO, LISA, …
+    • New and future observatories: XARM, NICER, Astrosat, Athena,
+      JWST, SKA, LIGO/VIRGO, LISA, …
 
 
     ORGANIZING COMMITTEES
@@ -76,7 +77,8 @@ excerpt_separator: <!--more-->
 
     Registration is open!
 
-    The standard conference fee ranges from 310 (very early) to 410 (late) euros, with reductions for students. 
+    The standard conference fee ranges from 310 (very early) to 410 (late)
+    euros, with reductions for students. 
 
     https://matteobachetti.github.io/supereddington2018/registration/
 
