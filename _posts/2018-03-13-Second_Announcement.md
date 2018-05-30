@@ -1,10 +1,7 @@
-layout	title	excerpt_separator
-post
-Second Announcement
-<!--more-->
+
 *********************** SECOND ANNOUNCEMENT **********************
 
-                       REAKING THE LIMITS 2018
+                       BREAKING THE LIMITS 2018
 
          Super-Eddington Accretion onto Compact Objects
 
