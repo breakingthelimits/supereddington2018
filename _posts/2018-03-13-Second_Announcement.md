@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-   *********************** SECOND ANNOUNCEMENT **********************
+    *********************** SECOND ANNOUNCEMENT **********************
 
                         BREAKING THE LIMITS 2018
 
@@ -16,11 +16,11 @@ excerpt_separator: <!--more-->
 
                  	         October 1--5, 2018
 
-   Email: supereddington2018@oa-cagliari.inaf.it
+    Email: supereddington2018@oa-cagliari.inaf.it
 
-   Website: http://matteobachetti.github.io/supereddington2018
+    Website: http://matteobachetti.github.io/supereddington2018
 
-   *****************************************************************
+    *****************************************************************
 
 <!--more-->
     RATIONALE AND PROGRAM
@@ -48,33 +48,33 @@ excerpt_separator: <!--more-->
     -----------------
 
 
-    <b>Accretion and ejection physics</b><br />
-    <b>Black hole growth and galaxy evolution</b><br />
-    <b>Active Galactic Nuclei and quasars</b><br />
-    <b>Galactic super-Eddington black holes and neutron stars</b><br /> 
-    <b>Ultraluminous X-ray sources</b><br />
-    <b>Gamma-ray bursts and tidal disruption events</b><br />
-    <b>New and future observatories: NICER, Athena, XARM, ...</b><br />
+    Accretion and ejection physics
+    Black hole growth and galaxy evolution
+    Active Galactic Nuclei and quasars
+    Galactic super-Eddington black holes and neutron stars 
+    Ultraluminous X-ray sources
+    Gamma-ray bursts and tidal disruption events
+    New and future observatories: NICER, Athena, XARM, ...
 
-INVITED SPEAKERS:
------------------
+    INVITED SPEAKERS:
+    -----------------
     
-<b>Alexander Tchekovskoy (Northwestern U.) - TBC </b><br />
-<b>Diego Altamirano (U. Southampton)</b><br />
-<b>Eleonora Troja (GSFC/UMD)</b><br />
-<b>Marianne Vestergaard (U. Copenhagen)</b><br /> 
-<b>Matt Middleton (U. Southampton)</b><br />
-<b>Nadia Zakamska (Johns Hopkins U.)</b><br />
-<b>Neil Cornish (Montana U.)</b><br />
+    Alexander Tchekovskoy (Northwestern U.) - TBC 
+    Diego Altamirano (U. Southampton)
+    Eleonora Troja (GSFC/UMD)
+    Marianne Vestergaard (U. Copenhagen) 
+    Matt Middleton (U. Southampton)
+    Nadia Zakamska (Johns Hopkins U.)
+    Neil Cornish (Montana U.)
 
 
    
     
-ORGANIZING COMMITTEES
----------------------
+    ORGANIZING COMMITTEES
+    ---------------------
 
-## Scientific Organizing Committee (alphabetical order)
-
+    ## Scientific Organizing Committee (alphabetical order)
+  
 
     • Matteo Bachetti (co-chair) - INAF Cagliari, Italy
 
@@ -105,7 +105,7 @@ ORGANIZING COMMITTEES
     • Marta Volonteri - Institut de Astrophysique de Paris, France
 
 
-## Local Organizing Committee
+    ## Local Organizing Committee
 
     • Matteo Bachetti (chair) - INAF Cagliari, Italy
 
@@ -119,12 +119,17 @@ ORGANIZING COMMITTEES
 
     • Paolo Soletta - INAF Cagliari, Italy
 
-VENUE
+    VENUE
 
------
+    -----
 
 
-The conference will be held at the Sant’Elmo Beach Hotel, in Castiadas (CA), a small town along the beautiful East coast of Sardinia, in Italy. This resort offers a variety of lodging solutions and discounted prices for conference participants. Please reserve your room as soon as possible through the Kassiopea secretariat to get the discount.
+    The conference will be held at the Sant’Elmo Beach Hotel,
+    in Castiadas (CA), a small town along the beautiful East
+    coast of Sardinia, in Italy. This resort offers a variety
+    of lodging solutions and discounted prices for conference
+    participants. Please reserve your room as soon as possible
+    through the Kassiopea secretariat to get the discount.
 
 
 
